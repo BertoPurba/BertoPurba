@@ -14,7 +14,7 @@ I'm passionate about building AI, Machine Learning, and Data Science projects wh
 
 <p>
 <a href="https://github.com/BertoPurba">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=BertoPurba&style=for-the-badge&color=blue"/>
 </a>
 </p>
 
