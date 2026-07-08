@@ -40,35 +40,6 @@ I'm passionate about building AI, Machine Learning, and Data Science projects wh
 
 </p>
 
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=BertoPurba&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BertoPurba&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800"
-/>
-
-</div>
-
----
-
-# GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=BertoPurba&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
 
 # Activity Graph
 
