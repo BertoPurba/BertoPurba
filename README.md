@@ -80,18 +80,7 @@ I'm passionate about building AI, Machine Learning, and Data Science projects wh
 
 ---
 
-# Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| Sentiment Analysis | NLP, Machine Learning, Python |
-| Orbit Wars AI | Artificial Intelligence Strategy |
-| Titanic Prediction | Classification using Scikit-Learn |
-| SQL ClassicModels | SQL Practice |
-| Golang Algorithms | Data Structure & Algorithm |
-| Portfolio Website | Personal Portfolio |
-
----
 
 # Currently Learning
 
