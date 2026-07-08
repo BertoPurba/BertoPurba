@@ -71,15 +71,15 @@ Docker           ██████░░░░░░░░ 50%
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/berto-jdoyvan">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:bertojdoyvanpurba@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://www.kaggle.com/YOUR_USERNAME">
+<a href="https://www.kaggle.com/bertojdoyvan">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48"/>
 </a>
 
