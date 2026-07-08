@@ -1,63 +1,130 @@
-<p align="center">
-  <!-- BANNER ANIMASI KUSTOM -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&lines=HI%2C+I'M+BERTO+JDOYVAN;Called+%22Bert%22;Artificial+Intelligence+Engineer;Deep+Learning+Specialist" alt="Typing SVG" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:2563eb&text=Berto%20Jdoyvan&fontColor=ffffff&fontSize=42&fontAlignY=40&animation=fadeIn" width="100%" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Informatics+Student;Machine+Learning+Enthusiast;Data+Science+Learner;Backend+Developer" />
+
+<br>
+
+<p>
+I'm passionate about building AI, Machine Learning, and Data Science projects while continuously exploring modern software development technologies.
 </p>
 
+<p>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+</a>
+</p>
+
+</div>
+
+---
+
+# About Me
+
+- Informatics Student
+- Interested in AI & Machine Learning
+- Learning Backend Development
+- Love solving real-world problems using Data
+- Currently exploring Deep Learning
+
+---
+
+# Tech Stack
+
 <p align="center">
-  <!-- GIF Animasi AI/Neural Network yang Keren -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2MzZnd3d2NpYXZwNTR4dDFtN2Fmb3YyNXg2dGlpMzB1N3hpNXQ3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nruU/giphy.gif" width="450" alt="AI Animation">
+
+<img src="https://skillicons.dev/icons?i=python,go,mysql,git,github,vscode,linux,tensorflow,pytorch,sklearn,docker" />
+
 </p>
 
 ---
 
-### 👋 Halo! Saya Bert.
-Saya adalah seorang **AI & Deep Learning Engineer** yang berfokus pada pembuatan arsitektur jaringan saraf (*neural networks*) tingkat lanjut, pemrosesan komputer visi, NLP, hingga *deployment* sistem kecerdasan buatan ujung-ke-ujung (End-to-End AI).
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Alat Kerja (Animated Hover)
+# GitHub Streak
 
-### 🧠 Deep Learning & Artificial Intelligence
-<p align="left">
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f917/512.webp" alt="huggingface" width="40" height="40"/> </a>
-</p>
+<div align="center">
 
-### 📊 Machine Learning & Data Crunching
-<p align="left">
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-</p>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
 
-### 🚀 MLOps & AI Deployment
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="50" height="40"/> </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/> </a>
+</div>
+
+---
+
+# Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| Sentiment Analysis | NLP, Machine Learning, Python |
+| Orbit Wars AI | Artificial Intelligence Strategy |
+| Titanic Prediction | Classification using Scikit-Learn |
+| SQL ClassicModels | SQL Practice |
+| Golang Algorithms | Data Structure & Algorithm |
+| Portfolio Website | Personal Portfolio |
+
+---
+
+# Currently Learning
+
+```text
+Machine Learning ███████████░░░ 85%
+
+Deep Learning    ████████░░░░░░ 65%
+
+Backend          █████████░░░░░ 75%
+
+Docker           ██████░░░░░░░░ 50%
+```
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.kaggle.com/YOUR_USERNAME">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="48"/>
+</a>
+
 </p>
 
 ---
 
-## 📈 Statistik Kontribusi (Animasi Gelombang)
+<div align="center">
 
-<p align="center">
-  <!-- Grafik aktivitas kontribusi GitHub yang dianimasikan dengan tema gelap -->
-  <img src="https://github-readme-activity-graph.vercel.add/graph?username=Gilbertgeraldo&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
+## Thanks for visiting!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gilbertgeraldo&show_icons=true&theme=tokyonight&count_private=true" alt="Berto's GitHub Stats" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,100:2563eb"/>
 
----
-
-## 🌐 Mari Terhubung
-
-<p align="center">
-  <a href="LINK_LINKEDIN_KAMU" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:EMAIL_KAMU@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</div>
