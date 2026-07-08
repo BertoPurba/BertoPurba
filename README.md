@@ -13,7 +13,7 @@ I'm passionate about building AI, Machine Learning, and Data Science projects wh
 </p>
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/BertoPurba">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 </a>
 </p>
@@ -46,9 +46,9 @@ I'm passionate about building AI, Machine Learning, and Data Science projects wh
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BertoPurba&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BertoPurba&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -58,7 +58,7 @@ I'm passionate about building AI, Machine Learning, and Data Science projects wh
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=BertoPurba&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -68,7 +68,7 @@ I'm passionate about building AI, Machine Learning, and Data Science projects wh
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BertoPurba&theme=github-compact&hide_border=true"/>
 
 </div>
 
