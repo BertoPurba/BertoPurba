@@ -71,7 +71,7 @@ Docker           ██████░░░░░░░░ 50%
 
 <p align="center">
 
-<a href="https://linkedin.com/in/berto-jdoyvan">
+<a href="https://www.linkedin.com/in/berto-jdoyvan-558474325/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
